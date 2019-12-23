@@ -1,0 +1,118 @@
+@font-face {
+    font-family: Calibri;
+    src: url(CALIBRI.TTF);
+}
+
+nav {
+	width: 100%;
+	font-family: Calibri;
+	font-size: .80em;
+	position: fixed;
+	top: 0;
+}
+li {
+	position: relative;
+}
+li a {
+	display: block;
+}
+a {
+	color: #DDD;
+}
+a:active {
+	background-color: #21544A;
+}
+nav:after {
+	width: 0;
+	height: 0;
+	border: 0.313em solid transparent;
+	border-bottom: none;
+	border-top-color: #3FA08D;
+	vertical-align: middle;
+	display: inline-block;
+	position: relative;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+/* Top Level */
+
+	nav > ul {
+		height: 3.75em;
+		background-color: #21544A;
+	}
+	nav > ul > li {
+		width: 16.66%;
+		float: left;
+	}
+	nav > ul > li > a {
+		height: 100%;
+		font-size: 1.5em;
+		line-height: 2.5em;
+		text-align: center;
+	}
+	nav > ul > li:not( :last-child ) > a {
+		border-right: 1px solid #3FA08D;
+	}
+	nav > ul > li:hover > a, nav > ul:not( :hover ) > li.active > a {
+		background-color: #4C6D67;
+	}
+
+
+/* Lower Level */
+
+	li ul {
+		background-color: #4C6D67;
+		display: none;
+		position: absolute;
+		top: 100%;
+	}
+	li:hover ul {
+		display: block;
+		left: 0;
+		right: 0;
+	}
+	li:not( :first-child ):hover ul {
+		left: -1px;
+	}
+	li ul a {
+		font-size: 1.2em;
+		border-top: 1px solid #3FA08D;
+		padding: 0.75em;
+		text-align: center;
+	}
+	li ul li a:hover, nav li ul:not( :hover ) li.active a {
+		background-color: #21544A;
+	}
+	
+
+/* Media Queries*/
+	
+@media only screen and ( max-width: 40em ) {
+	
+	li ul {
+		display: inline-block;
+	}
+	nav a {
+		font-size: 1.2em;
+	}
+	nav {
+		position: static;
+		background-color: #21544A;
+	}
+	nav > ul > li {
+		width: 100%;
+		display: block;
+		background-color: #21544A;
+	}
+	nav > ul > li > ul  > li {
+		display: none;
+	}
+	nav > ul > li:not( :last-child ) > a {
+		border-bottom: 1px solid #3FA08D;
+	}
+}

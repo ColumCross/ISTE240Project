@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Family Main Page</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- Main page for Family -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>Family</h1>
+		<div class="content first">
+			<h1>Intro</h1>
+			<p>My family has owned land in Rockport, Ontario, Canada for many, many generations. The land where the cottage is now was first obtained by my Great-Great-Grandfather, <a href="family.shtml">Benjamin Kirker Jr.</a></p>
+		</div>
+		<div class="content second">
+			<h1>What this section has to offer:</h1>
+			<p><a href="family.shtml">Check out all my family members here.</a></p>
+			<p><a href="owners.shtml">Check out who currently owns what here.</a></p>
+		</div>
+	</div>
+	<div id="photobar">
+		<figure>
+			<img src="assets/images/people/IMG_0366.JPG" alt="Robert Kenneth, Richard, and Colum Cross">
+			<figcaption>From left to right, a picture of Robert (my Uncle), Richard (my Father), and Colum (myself) Cross. Taken in the dining room of the Upper Cottage.</figcaption>
+		</figure>
+	</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>References</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- References page -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>References</h1>
+		<div class="content first">
+			<h1>Content</h1>
+			<p>I would like to thank my dad for helping me gather the content. All of the content is original and pertains to my family and my families history.</p>
+			<p>A small amount of information pertaining to Boldt Castle was taken from <a href="http://www.boldtcastle.com/visitorinfo/">the official website</a> and the <a href="http://en.wikipedia.org/wiki/Boldt_Castle">Wikipedia article.</a></p>
+		</div>
+		<div class="content second">
+			<h1>Photos</h1>
+			<p>All pictures on the site are original, either taken by me, or my family. The only image that is not original is the Canadian flag image in the logo. It was taken from <a href="http://www.vectorportal.com/subcategory/23/CANADIAN-VECTOR-FLAG.ai/ifile/1276/detailtest.asp">Vector Portal.</a></p>
+		</div>
+	</div>
+</body>
+</html>

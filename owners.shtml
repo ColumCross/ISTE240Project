@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Current Owners</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<style>
+		div#this {
+			float: right;
+			width: 39%;
+			margin: 2px;
+			padding: 0;
+			display: inline;
+		}
+		@media ( max-width: 900px) {
+			div#this {
+				width: 100%;
+			}
+		}
+	</style>
+	<!-- Owners -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>Current Owners</h1>
+		<div class="content first">
+			<h1>The Crosses</h1>
+			<p>The Crosses own the land marked "Cross" on the map.</p>
+		</div>
+		<div class="content second">
+			<h1>The Burnses</h1>
+			<p>The Burnses own the land marked "Mills" on the map.</p>
+		</div>
+		<div class="content third">
+			<h1>Bergerons</h1>
+			<p>The Bergerons own the land marked "ARKE" for Clarke on the map.</p>
+		</div>
+		<div class="content first">
+			<h1>The Thomlinsons</h1>
+			<p>The Thomlinsons own land next to the Bergerons, that is not shown on the map.</p>
+		</div>
+		<div class="content second">
+			<h1>Rest of the land</h1>
+			<p>The rest of the land on the map no longer belongs to people in my family.</p>
+		</div>
+	</div>
+	<div id="this">
+		<img src="assets/images/location/map.jpeg" alt="Original Property Map">
+	</div>
+</body>
+</html>

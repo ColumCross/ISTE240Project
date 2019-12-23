@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Local History</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- History of the surrounding area -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>Local History</h1>
+		<h2>History of the Surrounding Area</h2>
+		<div class="content first">
+			<h1>Why it's called Horse Thief Bay</h1>
+			<p>The next cove over from The Cottage is called Horse Thief Bay. Horse Thief Bay got its name when, during the American Civil War, horse thieves would steal horses in Canada and swim them across the water to America to sell to the American army. They would take them from the Canadian mainland over Hill Island, across a small channel to Wellesley Island, into America.</p>
+		</div>
+		<h2>Folk Lore &amp; Family Legends</h2>
+		<div class="content second">
+			<h1>Aunt Effie's Bathtub</h1>
+			<p>Aunt Effie's Bathtub is a small inlet on the shore on the property now owned by Thomlinsons. <a href="family.shtml#effie">Effie Deborah Goodhue</a> would use it to bath in, because there was no running water at the time. Aunt Effie's bathtub had another purpose, however. During Prohibition, it was a popular spot for bootleggers to fill up their boats with alcohol to bring to the States.</p>
+			<p>Bootleggers often drove at night, and without their lights on. One time, a bootlegger got into a crash with another boat. The bootlegger then drove away, stopped, made a big loop, and came back to the scene of the crash. It was presumed he did this to dump all of the alcohol in the water, so as to not get caught.</p>
+		</div>
+		<div class="content third">
+			<h1>Indian Rock (Local Name)</h1>
+			<p>West of Kirker Point, before the 1000 Islands Bridge, there is a place on the river known locally as Indian Rock. Indian Rock is a cliff that is roughly about a hundred feet up. Recently the town installed a statue of St. Lawrence on Indian Rock, but prior to that the only designation was the drawing on the rock. The drawing is of a canoe over a person with a headdress and a bow and arrow. The story goes like this:</p>
+			<p>One day, a young Indian boy was in the woods by the rock, hunting, when he saw a deer. The boy began chasing the deer. The boy chased this deer all the way to the rock. The boy tried to capture the deer, however he was careless, and fell off the cliff. The boy drowned due to his carelessness, and an important lesson was learned that day.</p>
+		</div>
+	</div>
+	<div id="photobar">
+		<figure>
+			<img src="assets/images/location/tower2_edited.jpg" alt="Location of Indian Rock">
+			<figcaption>This is a picture taken from one of the 1000 Islands Skydeck showing the location of Indian Rock.</figcaption>
+		</figure>
+	</div>
+</body>
+</html>

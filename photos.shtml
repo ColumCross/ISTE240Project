@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Photos</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- Photo page -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<h1>Photos</h1>
+	<div id="photos">
+		<figure>
+			<img src="assets/images/location/map.jpeg" alt="Original Property Map">
+			<figcaption>This hand drawn map shows the properties bought by Ben Kirker Jr.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/location/IMG_0006.JPG" alt="Redpath Island">
+			<figcaption>A picture of Redpath Island from the Lower Cottage.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/building/RobertCross_lowerPorch_60.jpeg" alt="The Lower Cottage circa 1960">
+			<figcaption>A pictures of the Lower Cottage from the 1960s. From left to right: My Uncle, Robert Cross, my Grandfather, Robert Cross, my Father, Richard Cross (sitting), my Grandmother, Eva.</figcaption>
+		</figure>
+		<figure style="float: left;">
+			<img src="assets/images/logopic.jpg" alt="Upper Cottage">
+			<figcaption>A picture of the front of the Upper Cottage from 2000.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/IMG_0366.JPG" alt="Robert Kenneth, Richard, and Colum Cross">
+			<figcaption>From left to right, a picture of Robert (my Uncle), Richard (my Father), and Colum (myself) Cross. Taken in the dining room of the Upper Cottage.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/WilliamCross.jpeg" alt="William Cross">
+			<figcaption>A picture of William Cross from 1916.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/WilliamCross_60s.jpeg" alt="William Cross">
+			<figcaption>A picture of William Cross at the Lower Cottage circa 1960.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/Robert_EvaCross.jpeg" alt="Robert and Eva Cross">
+			<figcaption>A picture of Robert and Eva Cross, my Grandparents. Unfortunately, my Grandfather died before I remembered him, and my Grandmother died when I was 3 years old.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/RichardCross.JPG" alt="Richard Cross">
+			<figcaption>A picture of Richard Cross, my Father.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/fishing1.jpg" alt="Picture of me fishing">
+			<figcaption>A picture of me with a fish I caught when I was little.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/fishing3.jpg" alt="Picture of me and Devon fishing">
+			<figcaption>A picture of me and my cousin Devin fishing when we were little. Whenever we caught a fish we would name it "Bob," or some variation of "Bob."</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/fishing2.jpg" alt="Picture of me and Devon fishing">
+			<figcaption>A picture of me and my cousin Devin with a bucket of "Bobs" we caught when we were little.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/botrace2.jpg" alt="Picture of a boat race">
+			<figcaption>One time a boat race went down our part of the river. I was young at the time and was just fascinated with it.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/botrace3.jpg" alt="Picture of a boat race">
+			<figcaption>Another shot of the boat race. I remember I called all the racers after my Aunt Ginny and Uncle Bob, and their dogs, Daisy and Oscar.</figcaption>
+		</figure>
+	</div>
+	
+</body>
+</html>	

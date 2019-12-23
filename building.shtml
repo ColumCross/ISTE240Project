@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>History of the Buildings</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- Building page -->
+<head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>History of the Buildings</h1>
+		<div class="content first">
+			<h1>Lower Cottage</h1>
+			<p>One side was built on the shore and the other was built on a cribbing on the water. The cribbing was built of cedar beams in the form of a lattice box. Rocks were placed inside the box to sink it into the water. The cribbing was most likely built in the winter then sunk in the summer when the water thawed. </p>
+			<p>The placement of the building allowed a slip to be made on the first floor into which a boat could be slid into the river. The remainder of the two story building was to be used as the workshop. On the second floor in the back bedroom there is a door. <a href="family.shtml">Benjamin Kirker Jr.</a> put this door in with the idea that he would install a ramp to run from the hillside where the top of the concrete steps are to this door in order to bring in materials and supplies. This ramp was never built. Instead the door directly underneath it is used.</p>
+			<p>In the back of the Lower Cottage, there is a porch. this porch is next to what was originally the boat entrance. The door to this porch is also original to the cottage, but until the 1960’s it opened only onto the rocks upon which the porch pilings now sit.</p>
+		</div>
+		<div class="content second">
+			<h1>Upper Cottage</h1>
+			<p>When my Grandfather, <a href="family.shtml#grandpa">Robert Kirker Cross,</a> retired in 1982, he sold his house in Spencerport, bought a retirement home in Florida, and decided to build a modern cottage at Kirker Point. Being the engineer, and RIT grad he was, he modified a standard design and supervised the construction crew himself. It was built in 1984. The building is a split-level, A-frame, built against the rocks, with two bedrooms and one bath.</p>
+		</div>
+	</div>
+	<div id="photobar">
+		<figure>
+			<img src="assets/images/building/RobertCross_lowerPorch_60.jpeg" alt="The Lower Cottage circa 1960">
+			<img src="assets/images/building/cottage_from_river_60s.jpeg" alt="The Lower Cottage circa 1960">
+			<figcaption>Pictures of the Lower Cottage from the 1960s.</figcaption>
+		</figure>
+		<figure style="float: left;">
+			<img src="assets/images/logopic.jpg" alt="Upper Cottage">
+			<figcaption>A picture of the front of the Upper Cottage from 2000.</figcaption>
+		</figure>
+	</div>
+</body>
+</html>

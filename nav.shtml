@@ -1,0 +1,69 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="assets/css/nav1.css">
+	<script>
+		function $(id) {
+			return document.getElementById(id);
+		}
+		function current() {
+			x = document.URL;
+			lst = x.split("/");
+			y = lst[6];
+			lst2 = y.split(".", 1);
+			return String(lst2);
+		}
+		function checker(page) {
+			if(page == "index" || page == "history_index" || page == "famdex" || page == "photos" || page == "other" || page == "location") {
+				$(page).style.color = "#000";
+			} else if(page == "building" || page == "local_history" || page == "beginning") {
+				$('history_index').style.color = "#542F21";
+				$(page).style.color = "#000";
+			} else if(page == "family" || page == "owners") {
+				$('famdex').style.color = "#542F21";
+				$(page).style.color = "#000";
+			} else if(page == "about" || page == "references") {
+				$('other').style.color = "#542F21";
+				$(page).style.color = "#000";	
+			} else {
+				$('index').style.color = "#000";
+			}	
+		}
+		function basicChanger(page) {
+			$(page).style.color = "#000";
+		}
+		function Main() {
+			checker(current());
+			//basicChanger(current());
+		}
+	</script>
+</head>
+<body onLoad="Main()">
+<nav>
+    <ul>
+        <li><a href="index.shtml" id="index">Home</a></li>
+        <li><a href="location.shtml" id="location">Location</a></li>
+        <li>
+			<a href="history_index.shtml" id="history_index">History</a>
+            <ul>
+                <li><a href="beginning.shtml" id="beginning">History of the Land</a></li>
+                <li><a href="building.shtml" id="building">History of the Buildings</a></li>
+                <li><a href="local_history.shtml" id="local_history">Local History</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="famdex.shtml" id="famdex">Family</a>
+            <ul>
+				<li><a href="family.shtml" id="family">Family Tree</a></li>
+                <li><a href="owners.shtml" id="owners">Owners</a></li>
+            </ul>
+        </li>
+		<li><a href="photos.shtml" id="photos">Photos</a></li>
+        <li>
+			<a href="other.shtml" id="other">Other</a>
+			<ul>
+				<li><a href="about.shtml" id="about">About</a></li>
+				<li><a href="references.shtml" id="references">References</a></li>
+			</ul>
+		</li>
+    </ul>
+</nav>
+</body>

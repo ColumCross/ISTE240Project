@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Location of The Cottage</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- Location Page -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>Location of the Cottage</h1>
+		<div class="content first">
+			<h1>From the Border</h1>
+			<p>From the border at the 1000 Islands you simply take a right off the bridge onto the 1000 Islands Parkway and drive for about a mile, and it will be on your right.</p>
+		</div>
+		<h2>Local Cities</h2>
+		<div class="content second">
+			<h1>Rockport</h1>
+			<p>Kirker Point is technically located in Rockport, however the center of Rockport is located 1.3 miles East. Rockport is a very small hamlet with only a couple of marinas, an ice cream shop in the summer, a couple of souvenir stores, two churches, a recreation hall, and a country club. Past Rockport is a general store, a chip truck, and a camp grounds.</p>
+		</div>
+		<div class="content third">
+			<h1>Gananoque</h1>
+			<p>Gananoque, or Gan for short, is the closest actual spot of civilization to the Cottage. It's about 10 miles West on the 1000 Islands Parkway from the cottage, and has everything you need in a city: Grocery stores, chip trucks, restaurants, banks, and more. In the summer, farmers like to sell corn on the roadside. Gan is right on the water, so there is plenty of boat access and waterside restaurants.</p>
+			<p>The only problem with Gan is that it is a tourist town. In the summer, it is bustling, and there is plenty to do. However, in the winter, the town virtually shuts down.</p>
+		</div>
+		<div class="content first">
+			<h1>Brockville</h1>
+			<p>Brockville is the nearest city to the Cottage, located 21 miles East. Brockville, the county seat, is a typical city. There are all the expected amenities of a small city, including movie theaters, hardware stores, restaurants, theaters, etc.</p>
+		</div>
+		<div class="content second">
+			<h1>Kingston</h1>
+			<p>Kingston is the nearest big city, 30 miles West of the Cottage. Kingston is a very beautiful city, mainly due to the fact that it was supposed to be the Capital, however when the Queen came to chose a capitol, she chose Ottawa instead, because she felt Kingston was too close to the States.</p>
+		</div>
+		<h2>Famous Local Landmarks</h2>
+		<div class="content third">
+			<p>Due to the fact that the 1000 Islands is a resort area, many millionaires have built summer homes there ever since the 19th century. Here are some close to Kirker Point.</p>
+		</div>
+		<div class="content first">
+			<h1>Redpath Island</h1>
+			<p>Redpath is a very famous Canadian sugar company (Canada's equivalent of Domino Sugar). A member of the family decided to build an fishing shack on this island right across the river from Kirker Point. Redpath Island is easily viewable from the Cottage.</p>
+		</div>
+		<a href="http://www.boldtcastle.com/visitorinfo/"><div class="content second">
+			<h1>Boldt Castle</h1>
+			<p>Boldt Castle is just on the other side of Hill Island, on the American side. Boldt Castle was a summer home built by millionaire George Boldt for his wife, Louise. Construction began in 1900, and stopped in 1904 after Louise died. It remained unfinished until 1977, when the Thousand Islands Bridge Authority (TIBA) bought the castle and Heart Island, where the castle sits.</p>
+			<p>It is currently a museum and a popular, yet very expensive, place for weddings.</p>
+		</div></a>
+	</div>
+	<div id="photobar">
+		<div id="iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d562.9353106403541!2d-75.95773641575313!3d44.37021059790829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1426863672078" width="600" height="450" frameborder="0" style="border:0"></iframe></div>
+		<figure>
+			<img src="assets/images/location/map.jpeg" alt="Original Property Map">
+			<figcaption>This hand drawn map shows the properties bought by Ben Kirker Jr.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/location/tower1_edited.jpg" alt="View from Skydeck">
+			<figcaption>This is a picture taken from one of the 1000 Islands Skydeck showing the location of Kirker Point. The arrow represents which way you enter.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/location/IMG_0006.JPG" alt="Redpath Island">
+			<figcaption>A picture of Redpath Island from the Lower Cottage.</figcaption>
+		</figure>
+	</div>
+</body>
+</html>

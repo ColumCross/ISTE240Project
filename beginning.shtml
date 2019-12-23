@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>History of the Land</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- History of land -->
+<head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>History of the Land</h1>
+		<div class="content first">
+			<h1>Kirker's Discovery</h1>
+			<p>It is a family legend that the Kirkers and the Services made their way down the St. Lawrence on a raft. However, it is more likely that they used a <a href="http://en.wikipedia.org/wiki/Bateau">bateau</a>, a type of boat traders used and voyageurs used. They received a <a href="https://www.ontario.ca/environment-and-energy/crown-patents">Crown Patent</a> for the land they stopped at. They started farming this land around the mid-1800s until the turn of the century when a man by the name of <a href="family.shtml">Benjamin Kirker Jr.</a> traded some of the farmland with James "Jimmie" Wallace for a parcel of land next to the St. Lawrence River.</p>
+		</div>
+		<div class="content second">
+			<h1>Current Location</h1>
+			<p>Ben wanted to start a boat building business. <a href="building.shtml">He built a barn to act as his boat works.</a> Sadly, he never made a go of the boat building business, and the barn was transformed into the current Lower Cottage.</p>
+		</div>
+	</div>
+	<div id="photobar">
+		<figure>
+			<img src="assets/images/deed/WallaceBenKirker_deed_p1.jpg" alt="Page one of the deed" width="33%;">
+			<img src="assets/images/deed/WallaceBenKirker_deed_p2.jpg" alt="Page two of the deed" width="33%;">
+			<img src="assets/images/deed/WallaceBenKirker_deed_p3.jpg" alt="Page three of the deed" width="33%;">
+			<figcaption>This is the original deed detailing the trading of the land now known as Kirker Point for the land first "discovered" by the Kirkers between James "Jimmie" Wallace and Benjamin Kirker Jr.</figcaption>
+		</figure>
+	</div>
+</body>
+</html>

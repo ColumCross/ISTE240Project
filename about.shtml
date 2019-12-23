@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>About</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- About page -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>About</h1>
+		<div class="content first">
+			<h1>Design Techniques</h1>
+			<p>I decided to go with a flat, borderless, seamless, Windows 10 style design for my site. I got rid of the margins, and made everything all compacted together. The only border used is in the figure tag, and I put that there to separate the pictures a little, to tell the viewer which caption goes with which picture.</p>
+			<p>I used a sea foam green as my base color, because that is the color of the water at the Cottage. I then used different shades of it to show contrast between the different chunks of content. No color is only used once, except for the background color.</p>
+		</div>
+		<div class="content second">
+			<h1>Organization</h1>
+			<p>I organized the data into very obvious categories, that can be traversed in any order.</p>
+		</div>
+		<div class="content third">
+			<h1>Content</h1>
+			<p>The content is completely about my family. It is very personal, and for that reason, interesting to people into family genealogy.</p>
+		</div>
+		<div class="content first">
+			<h1>Navigation</h1>
+			<p>Every page can be accessed from the global nav. It is a responsive drop down design inspired by other drop down responsive designs. The global navigation is very typical and similar to a lot of other websites. The fact that it's similar makes it easy to use and intuitive. The smartphone nav is also easy to use, however you can only access the top level elements.</p>
+			<p>The navigation is also done through SSI. I have one navigation page that all of my other pages link to. Since the navigation is done via SSI, I couldn't hardcode in the breadcrumbs. Instead I used completely original JavaScript functions to determine what page the user was on and change the color of that link in the nav.</p>
+			<p>Although, I took inspiration for the nav bar from <a href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly">Osvaldas Valutis,</a> I feel it is different enough to be mine.</p>
+		</div>
+		<div class="content second">
+			<h1>Web 3.0 Implementation</h1>
+			<p>For this project, I learned a lot of new tags and features in HTML5. One example of an HTML5 element I used was the figure tag. This came in handy for captioning images. I also use the font-face attribute that is new to CSS3. I love this attribute, because now I can use whatever font I want and not have to worry whether or not it's installed on the users computer.</p>
+		</div>

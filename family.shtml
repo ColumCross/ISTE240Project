@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Family Tree</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<!-- Family members -->
+</head>
+<body>
+	<!--#include file="nav.shtml" -->
+	<div id="main">
+		<h1>My Family Tree</h1>
+		<h2>First Generation</h2>
+		<div class="content first">
+			<h1>Benjamin Kirker Jr.</h1>
+			<p>One of many in the Kirker clan to bear this name, this Ben Kirker is the one who purchased the land along the St. Lawrence waterfront where our cottage was built. He had four children: Laura, William Benjamin, Margaret and Effie Deborah. His wife died relatively young and his oldest daughter Laura helped raise the children.</p>
+		</div><span id="laurae"></span>
+		<h2>Second Generation</h2>
+		<div class="content second">
+			<h1>Laura Kirker Edwards</h1>
+			<p>She was the eldest child and raised the others after their mother’s death. Laura married Arthur Edwards who became a wealthy and successful businessman in Rochester, NY, owning many commercial properties in Rochester and nearby Brighton. They had one child. In the summer, the women and children were sent off to the cottages for a good part of the summer while the men stayed at home and worked. When my Grandfather was a boy, sometimes Arthur’s chauffeur would drive him, his mother, and others in the family up in Arthur’s big car, a <a href="http://en.wikipedia.org/wiki/Marmon_Motor_Car_Company">Marmon.</a> The trip was a day long affair during which they stopped for a picnic lunch and took the ferry from Alex Bay to Rockport.</p><span id="nettie"></span>
+		</div>
+		<div class="content third">
+			<h1>William Benjamin Kirker</h1>
+			<p>He was a stockbroker. Ben’s wife was named Janet Elizabeth, who went by "Nettie." They had a couple of children. After Ben died, Nettie still stayed at her cottage. She entertained a number of her children’s friends and their families.</p><span id="mae"></span>
+		</div>
+		<div class="content first">
+			<h1>Margaret Mae Kirker Cross</h1>
+			<p>My Great-Grandmother. She married William Cross and had one child. Will Cross was born in 1882 and Margaret was a few years older than he. She died November 15, 1946.</p><span id="effie"></span>
+		</div>
+		<div class="content second">
+			<h1>Effie Deborah Kirker Goodhue</h1>
+			<p>She married Bertrand Goodhue. Bert was a butcher who worked for one of the Rochester grocery store chains. They lived in the Bull's Head section of Rochester. They had three children. Effie died on January 6, 1957 and Bert on March 21, 1957. They are buried near my grandparent's graves in White Haven Cemetery, Pittsford, NY.</p>
+		</div>
+		<h2>Third Generation</h2>
+		<div class="content third">
+			<h1>Helen Edwards Utz</h1>
+			<p>Only child of Laura and Arthur Edwards. She married Paul Utz and lived in an old Victorian house in Pittsford near the Barge Canal. She had a son Paul and daughters Geraldine, "Gerry," and Josephine "Josie."</p>
+		</div>
+		<div class="content first">
+			<h1>Wilson Kirker</h1>
+			<p>Son of Ben and Nettie. He died around 1949 and had daughters. His daughter Barbara once stopped to visit at the cottage.</p>
+		</div>
+		<div class="content second">
+			<h1>Orfa Kirker Wilder Grosvenor</h1>
+			<p>Daughter of Ben and Nettie. She married William "Billy" Wilder, who was a pilot in the U.S. Army Air Corps. He was killed in a plane crash during WWII. They had a son William, Jr. who is a retired career officer in the US Air Force. After Billy’s death, Orfa married John Grosvenor and lived near Syracuse, NY (Fayetteville). John and Orfa had a daughter Susan.</p><span id="grandpa"></span>
+		</div>
+		<div class="content third">
+			<h1>Robert Kirker Cross</h1>
+			<p>My Grandfather. Only child of William and Margaret. Robert was born in 1919, he was considerably younger than his cousins. Bob Cross married Eva Alma Suits and had two sons.</p>
+		</div>
+		<div class="content first">
+			<h1>Janet Goodhue</h1>
+			<p>Daughter of Bert and Effie. She was a teacher. She was never married and died as a young woman of spinal meningitis.</p>
+		</div>
+		<div class="content second">
+			<h1>Laura Goodhue Beach</h1>
+			<p>Daughter of Bert and Effie. Her husband’s name was Neil Beach. According to one deed she lived in Montreal, but she also lived in Rochester and Florida.</p>
+		</div>
+		<div class="content third">
+			<h1>Raymond K. Goodhue</h1>
+			<p>Son of Bert and Effie. He attended Syracuse University and his wife’s name was Janet (not to be confused with his sister of the similar name). An old deed states his residence as Akron, Ohio, but he subsequently moved and raised a family in Maine.</p>
+		</div>
+		<h2>Fourth Generation (Current Generation)</h2>
+		<div class="content first">
+			<h1>Robert Kenneth Cross</h1>
+			<p>My uncle. Son of Robert and Eva Cross. Co-owner of original cottage structure. He married Virginia Decker and has a son David and daughter Mary.</p>
+		</div>
+		<div class="content second">
+			<h1>Richard William Cross</h1>
+			<p>My father. Son of Robert and Eva Cross. Co-owner of original cottage structure. He married Denice Anne Guarino and has a son Colum (me) and a stepdaughter Alisande Pipkin.</p>
+		</div>
+		<div class="content third">
+			<h1>Susan Grosvenor Burns</h1>
+			<p>Daughter of Orfa and John Grosvenor. She married Douglas Burns and repurchased her grandmother Nettie's cottage property.</p>
+		</div>
+		<h2>Fifth Generation</h2>
+		<div class="content first">
+			<h1>Colum Cross</h1>
+			<p>Me. Son of Richard and Denice Cross. A freshman at RIT, studying Information Technology.</p>
+		</div>
+		<div class="content second">
+			<h1>David Cross</h1>
+			<p>My cousin. Son of Robert Kenneth and Ginny Cross. He has two sons.</p>
+		</div>
+		<div class="content third">
+			<h1>Mary Cross</h1>
+			<p>My cousin. Daughter of Robert Kenneth and Ginny Cross.</p>
+		</div>
+	</div>
+	<div id="photobar">
+		<figure>
+			<img src="assets/images/people/WilliamCross.jpeg" alt="William Cross">
+			<figcaption>A picture of William Cross from 1916.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/WilliamCross_60s.jpeg" alt="William Cross">
+			<figcaption>A picture of William Cross at the Lower Cottage circa 1960.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/Robert_EvaCross.jpeg" alt="Robert and Eva Cross">
+			<figcaption>A picture of Robert and Eva Cross, my Grandparents.</figcaption>
+		</figure>
+		<figure>
+			<img src="assets/images/people/RichardCross.JPG" alt="Richard Cross">
+			<figcaption>A picture of Richard Cross, my Father.</figcaption>
+		</figure>
+	</div>
+</body>
+</html>
